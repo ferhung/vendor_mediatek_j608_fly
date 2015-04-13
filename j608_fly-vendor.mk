@@ -8,5 +8,5 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/fly/j608_fly/vendor
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/fly/j608_fly/xbin,system/xbin)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/fly/j608_fly/app,system/app)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/fly/j608_fly/gapps,system)
 
