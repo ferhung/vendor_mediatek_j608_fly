@@ -1,7 +1,7 @@
-# begin addon properties
+#Tue, 07 Jul 2015 19:21:51 -0400
+
 ro.addon.type=gapps
-ro.addon.platform=44
-ro.addon.pa_type=micro
-ro.addon.pa_size=118260
-ro.addon.pa_version=20140608
-# end addon properties
+ro.addon.platform=lp
+ro.addon.version=slim.mini.20150707
+ro.addon.minimumversion=5.1
+ro.addon.size=291704119
